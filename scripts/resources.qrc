@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>cadastrar_button.png</file>
+    <file>login_button.png</file>
+    <file>login_user.png</file>
+    <file>logo.png</file>
+    <file>window_icon.ico</file>
+    <file>login_wallpaper.jpg</file>
+    <file>window_icon.ico</file>
+  </qresource>
+  <qresource prefix="new_register"/>
+</RCC>

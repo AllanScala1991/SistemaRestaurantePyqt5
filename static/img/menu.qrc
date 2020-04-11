@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="menu">
+    <file>3a5f36c5d2e3d3f.gif</file>
+    <file>developer2.png</file>
+    <file>developer.png</file>
+    <file>icon-estoque.png</file>
+    <file>table.png</file>
+    <file>money1.png</file>
+    <file>open_cash.png</file>
+    <file>safe_cash.png</file>
+    <file>entrega_button.png</file>
+    <file>mesa2_button.png</file>
+    <file>adicionar_button.png</file>
+    <file>deletar_button.png</file>
+    <file>editar_button.png</file>
+    <file>logo.png</file>
+    <file>facebook_button.png</file>
+    <file>youtube_button.png</file>
+    <file>github_button.png</file>
+    <file>pedido_button.png</file>
+    <file>caixa_button.png</file>
+    <file>cliente_button.png</file>
+    <file>mesa_button.png</file>
+    <file>produtos_button.png</file>
+    <file>relatorio_button.png</file>
+    <file>usuario_button.png</file>
+    <file>menu_wallpaper.jpg</file>
+    <file>window_icon.ico</file>
+  </qresource>
+</RCC>
